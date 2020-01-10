@@ -10,11 +10,17 @@ body {
 a {
   color: #8FCBDA;
 }
-h1, h2 {
+h1 {
   font-family: 'Lato', sans-serif;
   font-weight: 300;
   color: #46636b;
   font-size: 26px;
+}
+h2 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  color: ##17A2B8;
+  font-size: 22px;
 }
  h3 {
    font-family: 'Public Sans', sans-serif;
