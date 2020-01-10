@@ -54,3 +54,6 @@ h1, h2 {
 .portfolio-item {
   margin-bottom: 30px;
 }
+ul {
+  list-style: none;
+}
