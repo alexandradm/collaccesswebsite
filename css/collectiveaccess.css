@@ -3,7 +3,7 @@ body {
   padding-top: 56px;
 }
 .navbar, .navbar a {
-  background-color: #8FCBDA;
+  background-color: #17A2B8;
   color: #fff;
   font-size: 18px;
 }
@@ -19,11 +19,11 @@ h1 {
 h2 {
   font-family: 'Lato', sans-serif;
   font-weight: 300;
-  color: ##17A2B8;
   font-size: 22px;
 }
- h3 {
+ h3, h3 a, h3 a:hover {
    font-family: 'Public Sans', sans-serif;
+   color: #17A2B8;
    font-weight: 300;
    font-size: 18px;
  }
@@ -62,4 +62,7 @@ h2 {
 }
 ul {
   list-style: none;
+}
+.bg-light {
+  background-color: #8FCBDA !important;
 }
