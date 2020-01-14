@@ -70,6 +70,9 @@ ul {
   list-style: none;
   padding-left: 10px;
 }
+li {
+  padding-bottom: 1px;
+}
 .bg-light {
   background-color: #8FCBDA !important;
 }
@@ -102,7 +105,7 @@ ul {
 }
 #mc-embedded-subscribe {
   display: inline-flex;
-  padding-top: 5px;
+  padding-top: 4px;
   padding-bottom: 4px;
   padding-right: 8px;
   padding-left: 8px;
