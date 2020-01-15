@@ -85,24 +85,34 @@ li {
   padding-left: 0px;
 
 }
-.projects .btn-secondary {
+.projects .btn-archive {
+  background-color: green;
+  color: white;
   font-size: 12px;
   padding: 5px;
   margin: 5px;
 }
-.projects .btn-primary {
+.projects .btn-pa {
+  background-color: pink;
   font-size: 12px;
   padding: 5px;
   margin: 5px;
 }
-.projects .btn-primary:hover {
-  max-width: 180px;
-  color:#333;
-  border: none;
-  background-color: #8FCBDA;
-  font-family: 'Public Sans', sans-serif;
-  font-weight: 400;
+.projects .btn-cr {
+  background-color: purple;
+  color: white;
+  font-size: 12px;
+  padding: 5px;
+  margin: 5px;
 }
+.projects .btn-edu {
+  background-color: blue;
+  color: white;
+  font-size: 12px;
+  padding: 5px;
+  margin: 5px;
+}
+
 #mc-embedded-subscribe {
   display: inline-flex;
   padding-top: 4px;
