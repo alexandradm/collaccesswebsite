@@ -86,37 +86,69 @@ li {
 
 }
 .projects .btn-archive {
-  background-color: green;
+  background-color: #FEAE00;
   color: white;
   font-size: 12px;
-  padding: 5px;
-  margin: 5px;
-}
-.projects .btn-pa {
-  background-color: pink;
-  font-size: 12px;
-  padding: 5px;
-  margin: 5px;
-}
-.projects .btn-cr {
-  background-color: purple;
-  color: white;
-  font-size: 12px;
-  padding: 5px;
+  padding: 2px 5px 2px 5px;
   margin: 5px;
 }
 .projects .btn-edu {
-  background-color: blue;
+  background-color: black;
   color: white;
   font-size: 12px;
-  padding: 5px;
+  padding: 2px 5px 2px 5px;
   margin: 5px;
 }
-
+.projects .btn-corp {
+  background-color: pink;
+  color: white;
+  font-size: 12px;
+  padding: 2px 5px 2px 5px;
+  margin: 5px;
+}
+.projects .btn-pa {
+  background-color: #FF2D1C;
+  color: white;
+  font-size: 12px;
+  padding: 2px 5px 2px 5px;
+  margin: 5px;
+}
+.projects .btn-cr {
+  background-color: #7007AA;
+  color: white;
+  font-size: 12px;
+  padding: 2px 5px 2px 5px;
+  margin: 5px;
+}
+.projects .btn-gallery {
+  background-color: #2950C3;
+  color: white;
+  font-size: 12px;
+  padding: 2px 5px 2px 5px;
+  margin: 5px;
+}
+.projects .btn-lh {
+  background-color: #8FCBDA;
+  color: white;
+  font-size: 12px;
+  padding: 2px 5px 2px 5px;
+  margin: 5px;
+}
+.projects .btn-consortium {
+  background-color: gray;
+  color: white;
+  font-size: 12px;
+  padding: 2px 5px 2px 5px;
+  margin: 5px;
+}
 #mc-embedded-subscribe {
   display: inline-flex;
   padding-top: 4px;
   padding-bottom: 4px;
   padding-right: 8px;
   padding-left: 8px;
+}
+
+.post {
+  min-height: 120px;
 }
