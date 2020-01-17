@@ -1,6 +1,7 @@
 
 body {
   padding-top: 56px;
+  min-height: 100vh;
 }
 .navbar, .navbar a {
   background-color: #17A2B8;
